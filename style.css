@@ -148,6 +148,10 @@ button:disabled {
     .over {
         font-size: 3rem;
     }
+    
+    .reset {
+        font-size: 2.5rem
+    }
 }
 
 @media(max-width: 400px) {
@@ -166,7 +170,7 @@ button:disabled {
     }
 
     .reset {
-        font-size: 3rem
+        font-size: 2.5rem
     }
 }
 
